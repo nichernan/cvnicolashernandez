@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>curriculum</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <header>
+    <h1 id="#EncabezadoSecundario"></h1>
+    <h1 id="EncabezadoPrincipal">Curriculum</h1>
+  </header>
+<main>
+</nav>
+<nav class="menu">
+    <div class="boton">
+        <a href="datos_personales.html">datos personales</a> 
+   </div>
+   <div class="boton">
+       <a href="index.html">datos personales</a>
+   </div>
+   <div class="boton">
+        <a href="experiencia_laboral.html">experiencia laboral</a>
+   </div>
+   <div class="boton">
+       <a href="estudios.html">estudios</a>
+   </div>
+</nav>   
+</main>
+<footer>
+     <div class ="contenedorparrafos">
+        <p class="parrafos">este es el puto parrafo</p>
+        <p class="parrafos">este es el cuarto parrafo</p>
+     </div>
+    </footer>
+</body>
+</html>
