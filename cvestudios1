@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cv nicolas hernandez</title>
+</head>
+<body>
+ <h1>Estudios</h1>
+ <p>Primaria y Secundaria: Completa realizada en el colegio San Patricio</p>
+ <p>Estudios Universarios: Actualmente cursando Lic. en gestión de Tecnología de la Información en <a href="https://www.uade.edu.ar/" target="_blank"> UADE</a> </p>
+</body>
+</html> 
