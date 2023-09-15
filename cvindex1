@@ -10,7 +10,7 @@
 <body>
   <header>
     <h1 id="#EncabezadoSecundario"></h1>
-    <h1 id="EncabezadoPrincipal">Curriculum</h1>
+    <h1 id="EncabezadoPrincipal">CURRICULUM</h1>
   </header>
 <main>
 </nav>
@@ -19,7 +19,7 @@
         <a href="datos_personales.html">datos personales</a> 
    </div>
    <div class="boton">
-       <a href="index.html">datos personales</a>
+       <a href="competencias.html">habilidades</a>
    </div>
    <div class="boton">
         <a href="experiencia_laboral.html">experiencia laboral</a>
@@ -30,10 +30,7 @@
 </nav>   
 </main>
 <footer>
-     <div class ="contenedorparrafos">
-        <p class="parrafos">este es el puto parrafo</p>
-        <p class="parrafos">este es el cuarto parrafo</p>
-     </div>
-    </footer>
+     
+</footer>
 </body>
 </html>
