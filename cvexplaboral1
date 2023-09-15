@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cv nicolas hernandez</title>
+</head>
+<body>
+ <h1>experiencia laboral</h1>   
+<nav class="exp">
+    <p >Trabajé en una fábrica de abrazaderas. 
+    Aunque mi experiencia laboral no está directamente relacionada con la programación web, he adquirido habilidades valiosas que puedo aplicar en cualquier entorno de trabajo, como por ejemplo ser puntual y trabajar en equipo.</p>
+</nav>
+</body>
+</html>
