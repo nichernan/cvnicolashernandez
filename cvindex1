@@ -9,7 +9,6 @@
 </head>
 <body>
   <header>
-    <h1 id="#EncabezadoSecundario"></h1>
     <h1 id="EncabezadoPrincipal">CURRICULUM</h1>
   </header>
 <main>
@@ -19,7 +18,7 @@
         <a href="datos_personales.html">datos personales</a> 
    </div>
    <div class="boton">
-       <a href="com">habilidades</a>
+       <a href="Habilidades.html">habilidades</a>
    </div>
    <div class="boton">
         <a href="experiencia_laboral.html">experiencia laboral</a>
