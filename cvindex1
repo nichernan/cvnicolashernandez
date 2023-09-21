@@ -19,7 +19,7 @@
         <a href="datos_personales.html">datos personales</a> 
    </div>
    <div class="boton">
-       <a href="competencias.html">habilidades</a>
+       <a href="com">habilidades</a>
    </div>
    <div class="boton">
         <a href="experiencia_laboral.html">experiencia laboral</a>
@@ -30,6 +30,10 @@
 </nav>   
 </main>
 <footer>
+     
+</footer>
+</body>
+</html>
      
 </footer>
 </body>
