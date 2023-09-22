@@ -1,0 +1,66 @@
+.boton{
+    background: #F40A0A;
+    width: 400px;
+    height: 70px;
+    flex-shrink: 0;
+    margin: 20px;
+    display: flex;
+    font-size: 50px;
+    align-items: center;
+}
+.menu{
+    background-color: #2AFC07;
+    display: flex;
+    font-size: 20px;
+    display: flex; 
+    justify-content: space-between;
+}
+.contenedorimgtexto{
+    display: flex;
+}
+.contenedortexto{
+    display: flex;
+}
+.center{
+    text-align: center;
+    font-size: 50px;
+}
+.botones{
+    background-color: #2AFC07;
+    display: flex;
+    font-size: 20px;
+    display: flex; 
+    justify-content: space-between;
+}
+.hola{
+    text-align: center;
+    font-size: 30px;
+}
+.medio{
+    text-align: center;
+    font-size: 30px;
+}
+.habi{
+    text-align: center;
+    font-size: 30px;
+}
+.mediano{
+    text-align: center;
+    font-size: 30px;
+}
+.expe{
+    text-align: center;
+    font-size: 30px;
+}
+.fabrica{
+    text-align: center;
+    font-size: 30px;
+}
+.estu{
+    text-align: center;
+    font-size: 30px;
+}
+.prim{
+    text-align: center;
+    font-size: 30px;
+}
