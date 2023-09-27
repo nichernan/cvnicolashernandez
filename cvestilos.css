@@ -1,65 +1,108 @@
-.boton{
-    background: #F40A0A;
-    width: 400px;
-    height: 70px;
-    flex-shrink: 0;
-    margin: 20px;
+body{
+    background-color: rgb(245, 245, 245);/*es el color del fondo de la pagina entera*/
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    min-height: 100vh;
     display: flex;
-    font-size: 50px;
+    flex-direction: column;
+    overflow-x: hidden;
+}
+h1{
+    background-color: rgb(37, 237, 197);/*color del curriculum vitae de ....*/
+    margin: 0px;
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+    text-align: center;
+    width: 100%;
+}
+h2{
+    margin: 1em;
+    padding: 0px;
+    text-align: center;
+}
+header{ /*fondo de arriba de los botones(no el fondo de los botones,el de atras)*/
+    display: flex;
+    min-height: auto;
+    text-align: center;
+    background-color: rgb(245, 245, 245);
+    font-size: 1.25em;
+    width: 100%;
+}
+.ultipo1{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    padding: 0px;
+    margin: 0px;
+}
+.litipo1{ /*botones*/
+    display: flex;
+    justify-content: center;
     align-items: center;
+    width: 20vw;
+    height: 2.5em;
+    padding: 1.75vw;
+    margin: 0px;
+    border-radius: 2em;
+    background-color: #ababab;
 }
-.menu{
-    background-color: #2AFC07;
+nav{
+    height: 3.5em;
+}
+footer{ /* rectangulo de abajo de todo*/
+    background-color: rgb(37, 237, 197);
     display: flex;
-    font-size: 20px;
-    display: flex; 
-    justify-content: space-between;
+    justify-content: end;
+    margin-top: auto;
+    padding: 1em;
 }
-.contenedorimgtexto{
+.botontipo1{
+    font-size: 1em;
+    width: 100%;
+}
+.spantipo1{ /*esto es el cuadro del medio medio con la info*/
     display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0.25em;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    background-color: rgb(193, 213, 213);
+    padding: 1em;
+    border-radius: 1em;
 }
-.contenedortexto{
+.divtipo1{
     display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0px;
 }
-.center{
-    text-align: center;
-    font-size: 50px;
+p{
+    margin: 0.2em;
 }
-.botones{
-    background-color: #2AFC07;
-    display: flex;
-    font-size: 20px;
-    display: flex; 
-    justify-content: space-between;
+.normal{
+    width: auto;
+    height: auto;
 }
-.hola{
-    text-align: center;
-    font-size: 30px;
+.noclass{
+    padding: 0%;
+    margin: 0.2em;
 }
-.medio{
-    text-align: center;
-    font-size: 30px;
+a{
+    font-size: 0.75em;
+    text-decoration: none;
+    padding: 2vw;
 }
-.habi{
-    text-align: center;
-    font-size: 30px;
-}
-.mediano{
-    text-align: center;
-    font-size: 30px;
-}
-.expe{
-    text-align: center;
-    font-size: 30px;
-}
-.fabrica{
-    text-align: center;
-    font-size: 30px;
-}
-.estu{
-    text-align: center;
-    font-size: 30px;
-}
+.NicolasHernandez {
+    width: 13.35em;
+    height: 13.7em;
+    max-width: 100%;
+    border: solid 0.25em;
+    margin: 1em;
+    padding: 0px;
+    border-radius: 6.675em;}
 .prim{
     text-align: center;
     font-size: 30px;
